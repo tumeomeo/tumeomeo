@@ -61,3 +61,11 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tumeomeo&theme=radical" alt-"tumeomeo" />
+ </p>
+ 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tumeomeo&no-frame=true&theme=onedark&no-bg=true" alt="tumeomeo" />
+</p>
