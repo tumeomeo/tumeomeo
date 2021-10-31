@@ -63,7 +63,7 @@
 </table>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=tumeomeo&theme=slateorange&background=FFFFFF00&dates=0DD96E&fire=DD7516" alt-"tumeomeo" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=tumeomeo&theme=slateorange&background=FFFFFF00&dates=0DD96E&fire=DD7516" alt="tumeomeo" />
 </p>
  
 <p align="center">
