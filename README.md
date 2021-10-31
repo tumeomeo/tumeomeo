@@ -63,8 +63,8 @@
 </table>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=tumeomeo&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00" alt-"tumeomeo" />
- </p>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=tumeomeo&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&dates=0DD96E&fire=DD7516&stroke=FFFFFF00" alt-"tumeomeo" />
+</p>
  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tumeomeo&no-frame=true&theme=onedark&no-bg=true" alt="tumeomeo" />
